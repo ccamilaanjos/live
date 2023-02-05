@@ -13,7 +13,9 @@ l, m3: real
 opcao: inteiro
 
 inicio
-repita
+opcao <- 1
+
+enquanto opcao <> 1 e opcao <> 2 faca
    escreval("Escolha a conversao")
    escreval("1. Quilometros para metros")
    escreval("2. Litros para metros cubicos")
@@ -36,5 +38,5 @@ repita
       fimse
    fimse
    escreval()
-ate opcao > 2
+fimenquanto
 fimalgoritmo
