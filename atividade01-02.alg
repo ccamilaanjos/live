@@ -8,7 +8,7 @@ algoritmo "Exercicio da Semana 2"
 // Data : 01/02/2023
 
 var
-m, km: real
+km, m: real
 l, m3: real
 h, m: real
 opcao: inteiro
