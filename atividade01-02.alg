@@ -1,19 +1,18 @@
-algoritmo "semnome"
+algoritmo "Exercício da Semana 2"
 // Função :  Escrever um algoritmo que forneça um menu para o usuário para que
 // ele possa escolher entre fazer a conversão de metros para quilômetros ou, de
 // litros para metros cúbicos.
-
 // O programa deve escrever na tela a conversão escolhida pelo usuário.
 
 // Autor : Camila Anjos
 // Data : 01/02/2023
-// Seção de Declarações
+
 var
 m, km: real
 l, m3: real
 opcao: inteiro
+
 inicio
-// Seção de Comandos
 repita
    escreval("Escolha a conversao")
    escreval("1. Quilometros para metros")
