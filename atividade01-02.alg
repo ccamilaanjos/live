@@ -1,5 +1,5 @@
 algoritmo "Exercicio da Semana 2"
-// Fun��o :  Escrever um algoritmo que forne�a um menu para o usuario para que
+// Funcao :  Escrever um algoritmo que forneca um menu para o usuario para que
 // ele possa escolher entre fazer a conversao de metros para quilometros ou, de
 // litros para metros cubicos.
 // O programa deve escrever na tela a conversao escolhida pelo usuario.
