@@ -1,8 +1,8 @@
-algoritmo "Exercício da Semana 2"
-// Função :  Escrever um algoritmo que forneça um menu para o usuário para que
-// ele possa escolher entre fazer a conversão de metros para quilômetros ou, de
-// litros para metros cúbicos.
-// O programa deve escrever na tela a conversão escolhida pelo usuário.
+algoritmo "Exercicio da Semana 2"
+// Função :  Escrever um algoritmo que forneça um menu para o usuario para que
+// ele possa escolher entre fazer a conversao de metros para quilometros ou, de
+// litros para metros cubicos.
+// O programa deve escrever na tela a conversao escolhida pelo usuario.
 
 // Autor : Camila Anjos
 // Data : 01/02/2023
