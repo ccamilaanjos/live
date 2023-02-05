@@ -33,7 +33,7 @@ repita
          escreva("Digite o valor em litros: ")
          leia(l)
          m3 <- l / 1000
-         escreval(l, " litro(s) equivale a ", m3, " metros cubico(s)")
+         escreval(l, " litro(s) equivale a ", m3, " metro(s) cubico(s)")
       fimse
    fimse
    escreval()
