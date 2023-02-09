@@ -10,7 +10,7 @@ algoritmo "Exercicio da Semana 2"
 var
 km, m: real
 l, m3: real
-h, m: real
+h, min: real
 opcao: inteiro
 
 inicio
@@ -42,8 +42,8 @@ enquanto opcao >= 1 e opcao <= 3 faca
             escreval("Conversao de horas para minutos")
             escreva("Digite o valor em horas: ")
             leia(h)
-            m <- h * 60
-            escreval(h, " hora(s) equivale a ", m, " minutos(s)")
+            min <- h * 60
+            escreval(h, " hora(s) equivale a ", min, " minutos(s)")
          fimse
       fimse
    fimse
